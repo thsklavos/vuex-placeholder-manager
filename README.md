@@ -1,4 +1,5 @@
 # vuex-todos
+vuex todos manager with json placeholder
 
 ## Project setup
 ```
